@@ -7,9 +7,11 @@ output: md_document
 
 Wolfman and Dracula measure really cool variable and unique space stuff.
 
-```{r 01mercury}
-
+```{r setup}
 knitr::opts_chunk$set(fig.path = '../figures/')
+```
+
+```{r 01mercury}
 # ggplot2 examples
 
 library(ggplot2) 

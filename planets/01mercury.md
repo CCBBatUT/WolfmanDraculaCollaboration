@@ -1,6 +1,7 @@
 Wolfman and Dracula measure really cool variable and unique space stuff.
 
     knitr::opts_chunk$set(fig.path = '../figures/')
+
     # ggplot2 examples
 
     library(ggplot2) 
@@ -21,4 +22,4 @@ Wolfman and Dracula measure really cool variable and unique space stuff.
        main="Mercury is Awesome", xlab="Unique Space Stuff", 
        ylab="Really Cool Variables")
 
-![](01mercury_files/figure-markdown_strict/01mercury-1.png)
+![](../figures/01mercury-1.png)
