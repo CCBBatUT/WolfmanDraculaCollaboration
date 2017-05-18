@@ -9,3 +9,6 @@ Inspired by the Software Carpentry Git Novice Lesson.
 Created for the Fall 2017 [Center for Computational Biology and Bioinforamtics Short Course](http://ccbb.utexas.edu/shortcourses.html) on Version Control for Bioinformatics with GitHub.
 
 Slides available at: https://www.slideshare.net/raynamharris/version-control-with-github-for-bioinformatics
+
+![](./figures/00_WolfmanDraculaPlanets.png)
+
